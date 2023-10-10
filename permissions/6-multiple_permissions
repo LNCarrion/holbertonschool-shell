@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod ug+wx hello
+cmod u,g+wx hello
